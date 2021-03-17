@@ -10,10 +10,11 @@ Description brief: Final project on python facial recognition<br/>
 
 ## Usage
 
-
+TODO
 
 ## Files Tree and descriptions
-```
+
+```bash
 FacialRecognition
 ├──Report
 |  ├──data.xlsx
