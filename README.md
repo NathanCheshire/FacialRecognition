@@ -31,8 +31,8 @@ FacialRecognition
 |  ├──Trump
 ├──output                             //images from a directory titled "unknown" are searched for known faces. If any are found, they are highlighted and placed in this directory
 |  ├──3.png
-|  |IMG_1204.JPG
-|  |-Philmont.jpg
+|  ├──IMG_1204.JPG
+|  ├──Philmont.jpg
 |  ├──Shaffers peak.jpg
 |  ├──avangers.jpg
 ├──LICENSE
